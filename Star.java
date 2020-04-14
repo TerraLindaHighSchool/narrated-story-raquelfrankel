@@ -34,5 +34,14 @@ public class Star extends Actor
           x = getWorld().getWidth();
        }
        
+    }
+   public int getX()
+    {
+        return x;
+    }
+   public int getY()
+   {
+    return y;
    }
 }
+
