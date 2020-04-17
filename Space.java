@@ -75,5 +75,7 @@ public class Space extends World
      */
     private void prepare()
     {
+        Creature creature = new Creature();
+        addObject(creature,313,224);
     }
 }
