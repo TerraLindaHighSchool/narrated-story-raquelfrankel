@@ -77,5 +77,7 @@ public class Space extends World
     {
         Creature creature = new Creature();
         addObject(creature,313,224);
+        Button button = new Button();
+        addObject(button,535,357);
     }
 }
