@@ -1,7 +1,7 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Button here.
+ * When pressed will play audio track
  * 
  * @author Raquel Frankel
  * @version 4/19/20
